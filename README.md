@@ -1,2 +1,2 @@
 # BTF-whitepapper
-btf wp
+bitfolio whitepapper
